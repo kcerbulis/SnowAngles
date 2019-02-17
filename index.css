@@ -1,0 +1,99 @@
+
+html {
+    height: 100%;
+    background-image: url("snowbackground.jpg");
+    width: 100%;
+  }
+  body {
+    width: 800px;
+    height: 100%;
+ }
+
+ body ul {font-family:'Raleway', sans-serif;
+font-size:14px;
+}
+  header {
+      background-color: ;
+      padding: 5px;
+      font-size: 32px;
+      display: block;
+      margin:0px;
+  }
+  
+  h1 {
+      font-family:"Open Sans";
+        text-align: center;
+}
+  nav {
+      width: 100%;
+      float: right;
+      text-align: center;
+      padding: 5px;
+  }
+  nav ul {
+      list-style-type: none;
+      align-content: center;
+margin: 0 0 0 150;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+      align-content: center;
+  }
+  a {
+      color: blue;
+  }
+  section {
+      width: 100%;
+      display: inline-block;
+      float: left;
+      font-family: "Open-Sans"
+  }
+  section img{
+      width: 500px;
+      margin: 0 0 20 130;
+
+  }
+  h2 {
+      font-family:'Raleway', sans-serif;
+      font-size: 24px;
+      text-align:center;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
+
+  body ul li {
+      list-style-type:none;
+        font-size:20px;
+}
+
+  .services {
+    border-width:5px;
+    border-style:solid;
+    border-radius: 25px;
+    border-color:black;
+  height: 50px;
+  padding: 5px;
+  display: inline-block;
+  margin: 5px;
+  background-color:white;
+  }
